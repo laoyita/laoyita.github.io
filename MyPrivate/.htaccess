@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile .htpassword
+AuthUserFile /laoyita.github.io/MyPrivate/.htpassword
 Require valid-user
